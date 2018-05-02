@@ -40,7 +40,7 @@ variable "is_rpc" {
 variable "is_api" {
   type        = "string"
   description = "To add datadog timeboard for api"
-  default     = true
+  default     = false
 }
 
 variable "is_asg" {

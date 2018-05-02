@@ -7,7 +7,7 @@ Terraform module to create Datadog Timeboard for application stack.
 
 Usage
 -----
-* See [Example](https://github.com/traveloka/terraform-datadog-timeboard-stack-app/tree/master/examples/timeboard-beistack)
+* See [Example](https://github.com/traveloka/terraform-datadog-timeboard-stack-app/tree/master/examples/timeboard-beistack-app)
 
 Terraform Version
 -----------------
